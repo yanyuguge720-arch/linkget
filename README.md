@@ -2,13 +2,15 @@
 
 > 仅限个人自用备份。下载内容的版权归原平台与著作权人所有，禁止商用、二次分发或传播侵权内容。
 
+**项目地址：** https://github.com/yanyuguge720-arch/linkget
+
 链取（LinkGet）是一个本地优先的 Android 链接解析工具：粘贴抖音 / B 站 / 小红书 / 快手 / 今日头条分享链接，解析视频、音频、图集，预览后勾选下载到手机媒体库。
 
 ## 当前版本
 
 - 版本：0.8.5（versionCode 25）
 - 名称：链取（LinkGet）；新图标为蓝色渐变 + 白色链接符号
-- 安装包：GitHub Releases（或自行构建）
+- 安装包：[GitHub Releases](https://github.com/yanyuguge720-arch/linkget/releases)（或自行构建）
 - 应用内「我的 → 隐私政策 / 免责声明」可查看全文；仓库内也有 [隐私政策](PRIVACY.md) 与 [免责声明](DISCLAIMER.md)
 - 意见反馈：QQ 群 `35369972`
 - 软件动态：应用内「我的 → 软件动态」查看抖音二维码，可保存到相册后扫码关注「岩羽朝歌」（抖音号 zhaogeyanyu）
